@@ -11,7 +11,7 @@
 ```
 import { mapNav } from until.js;
 mapNav({
-   type: 'gd', 
+   type: 'gd',  # gd 高德 bd百度 tx 腾讯
    
     point: { 
    
@@ -21,9 +21,9 @@ mapNav({
          
    },
    
-  pointname: 'test',
+   pointname: 'test', #高德地图必传
   
-   key: 'XXXXX' 
+   key: 'XXXXX'  #腾讯地图必穿，开发者平台申请的key
    
 })
 ```
