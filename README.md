@@ -23,7 +23,7 @@ mapNav({
    
    pointname: 'test', // 高德地图必传
   
-   key: 'XXXXX'  // 腾讯地图必穿，开发者平台申请的key
+   key: 'XXXXX'  // 腾讯地图必传，开发者平台申请的key
    
 })
 ```
